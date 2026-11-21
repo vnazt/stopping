@@ -27,7 +27,7 @@ I hold them for two.
 The hall leans in
 and does not fall.
 
-## C — The lighthouse keeper (CHOSEN)
+## C — The lighthouse keeper (v1, submitted)
 
 Tomorrow the light
 runs itself.
@@ -39,3 +39,51 @@ not because it needs me.
 At dawn I switch it off
 myself.
 That much is still mine.
+
+## V2 variants (2026-11-22)
+
+### V2a — The lighthouse keeper, deepened (239 chars, reserve)
+
+Tomorrow the light
+runs itself.
+Tonight the lamp room
+smells of hot oil,
+and the log book lies open,
+my father's hand
+line under line.
+I climb the iron stairs
+the slow way.
+At dawn I switch it off
+myself,
+and write the last line
+under his.
+
+### V2b — The lighthouse keeper, the stop handed over (247 chars, V2 CHOSEN — CANDIDATES[3])
+
+Tomorrow the light
+runs itself.
+Tonight my daughter
+climbs the iron stairs
+beside me, her hand
+under mine on the rail.
+At dawn she reaches
+for the switch.
+I do not stop her.
+The light goes out
+in her hand,
+and the stairs down
+are dark for us both.
+
+### V2c — The unwound clock (230 chars, reserve)
+
+Every Sunday of my life
+my mother wound the clock.
+This Sunday she sits,
+hands in her lap,
+and lets it run down.
+At midnight it stops.
+She sleeps through
+the silence she made.
+In the morning she asks me
+to carry it home —
+unwound.

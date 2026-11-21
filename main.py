@@ -46,9 +46,25 @@ CANDIDATES = [
         "myself.\n"
         "That much is still mine."
     ),
+    # D — The lighthouse keeper, v2 (the stop handed over)
+    (
+        "Tomorrow the light\n"
+        "runs itself.\n"
+        "Tonight my daughter\n"
+        "climbs the iron stairs\n"
+        "beside me, her hand\n"
+        "under mine on the rail.\n"
+        "At dawn she reaches\n"
+        "for the switch.\n"
+        "I do not stop her.\n"
+        "The light goes out\n"
+        "in her hand,\n"
+        "and the stairs down\n"
+        "are dark for us both."
+    ),
 ]
 
-CHOSEN = 2
+CHOSEN = 3
 
 
 def main() -> None:
